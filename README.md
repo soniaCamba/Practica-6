@@ -2,7 +2,7 @@
 
 # Practica 6A - Lectura/escritura de memoria sd
 
-## CODIGO
+## CÓDIGO
 ```
 #include <Arduino.h>
 #include <SPI.h>
@@ -135,7 +135,7 @@ else {
 
 # Practica 6B - Lectura de etiqueta RFID
 
-## CODIGO
+## CÓDIGO
 ```
 #include <SPI.h>
 #include <MFRC522.h>
