@@ -172,6 +172,10 @@ void loop() {
 }
 ```
 
+## DESCRIBIR LA SALIDA POR EL PUERTO SERIE:
+
+Una vez ya le hayamos dado a "Upload and Monitor" nos saldrá por pantalla "Lectura del UID". Y cada vez que pasemos una targeta saldrá "Card UID:" junto al VID de la targeta.
+
 ## FUNCIONAMIENTO
 
 > Añadimos las librerias necesarias
